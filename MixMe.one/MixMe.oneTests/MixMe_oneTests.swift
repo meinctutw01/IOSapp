@@ -1,15 +1,15 @@
 //
-//  Micme_OneTests.swift
-//  Micme.OneTests
+//  MixMe_oneTests.swift
+//  MixMe.oneTests
 //
 //  Created by admin on 16.06.17.
-//  Copyright © 2017 IOS. All rights reserved.
+//  Copyright © 2017 CockTinder. All rights reserved.
 //
 
 import XCTest
-@testable import Micme_One
+@testable import MixMe_one
 
-class Micme_OneTests: XCTestCase {
+class MixMe_oneTests: XCTestCase {
     
     override func setUp() {
         super.setUp()
